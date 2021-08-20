@@ -18,7 +18,7 @@ function RegistrationSuccess() {
        <div className="form-content-right">
            <div className="form-success">
                <h4>Congratulations!</h4>
-               <h4> You are now a registered \n Her Health Journal member!</h4>
+               <h4> You are now a registered Her Health Journal member!</h4>
             </div>
            <Lottie 
                     options={defaultOptions}

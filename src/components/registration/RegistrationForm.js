@@ -33,7 +33,7 @@ function RegistrationForm() {
                     />
             
             <h3>Welcome to HER HEALTH JOURNAL</h3>
-            <h4>Create your account today to start tracking your health and creating goals.</h4>
+            {/* <h4>Create your account today to start tracking your health and creating goals.</h4> */}
            </div>
         
             {!isSubmitted ? (
